@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Вау! Оно работает!
+lang: ru
+ref: hello_world
 ---
 
 Обнвил указанные опции (shown below).
