@@ -17,6 +17,7 @@ avatar: https://github.com/tonal/tonal.github.io/raw/master/images/kagyu.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  vk: tonal_promsoft
   dribbble:
   email:
   facebook: tonal.promsoft
@@ -25,12 +26,11 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
   twitter: tonal19
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  vk: tonal_promsoft
+  rss: rss # just type anything here for a working RSS icon
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
